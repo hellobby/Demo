@@ -17,6 +17,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     NSLog(@"Hello world!");
+    NSLog(@"测试提交代码");
 }
 
 
